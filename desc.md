@@ -7,6 +7,8 @@ This repository contains a collection of web scraping projects designed to extra
 ## Table of Contents
 
 1. [Job Scraper](job_scraper/): A web scraper for TimesJobs that filters job listings based on user-defined skills, providing a streamlined approach to job hunting.
+2. [Amazon_website_scrapper](https://github.com/t20071/web-scrapping-projects/tree/master/02.%20Amazon_website)
+3. [Flipkart_review_scrapper](https://github.com/t20071/web-scrapping-projects/tree/master/03.%20Flipkart_review_scrapper)
 
 
 
